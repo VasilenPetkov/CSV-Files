@@ -1,4 +1,7 @@
+# Visual Studio build folders
 x64/
+Debug/
+Release/
 
 # Prerequisites
 *.d
